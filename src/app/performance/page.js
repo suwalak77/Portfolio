@@ -10,14 +10,14 @@ export default function Performance() {
     {
       title: 'project_calorie',
       description:
-        'สร้างโปรแกรมการคํานวณแคลลอรี่แบบง่ายๆจากภาษา Python programming language: Python http://localhost:5173/ ',
+        'สร้างโปรแกรมการคํานวณแคลอรี่แบบง่ายๆจากภาษา Python programming language: Python ',
       image: '/calorie.png',
       link: 'https://colab.research.google.com/drive/1icqt3qSTUVX0fdZvLj0zZxG7CHtkeKos?usp=sharing',
     },
     {
       title: 'Employee Time-Off Management',
       description:
-        'เป็นเว็บไซต์เกี่ยวกับการลางานแบบออนไลน์โดยมีการอนุมัติจากแอดมิน programming language: HTML, CSS, Javascript, Fribase',
+        'เป็นเว็บไซต์เกี่ยวกับการลางานแบบออนไลน์โดยมีการอนุมัติจากแอดมิน programming language: HTML, CSS, Javascript, Friebase',
       image: '/employee.png',
       link: 'https://pp88-d3a5f.web.app/index.html',
     },
