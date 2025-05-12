@@ -70,7 +70,7 @@ export default function About() {
               <p className="leading-relaxed">
                 สวัสดีค่ะ ดิฉันชื่อ <strong>สุวลักษณ์ ดีเลิศ</strong> (ต้นข้าว) เป็นนักศึกษาคณะวิทยาศาสตร์ สาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยแม่โจ้
                 <br />
-                สนใจด้านการพัฒนาเว็บไซต์และ UX/UI เป็นพิเศษ โดยถนัดการใช้ HTML, CSS, JavaScript และ Vue.js
+                สนใจด้านการพัฒนาเว็บไซต์ โดยถนัดการใช้ HTML, CSS, JavaScript และ Vue.js
                 <br /><br />
                 ดิฉันเชื่อว่า <em>"เว็บไซต์ที่ดีต้องใช้งานง่าย และสื่อสารได้โดยไม่ต้องอธิบาย"</em> <br />
                 และมุ่งมั่นพัฒนาทักษะอย่างต่อเนื่อง พร้อมเปิดรับความท้าทายใหม่ ๆ
@@ -83,7 +83,7 @@ export default function About() {
               <ul className="list-disc list-inside space-y-1">
                 <li>HTML, CSS, JavaScript, Tailwind CSS</li>
                 <li>Vue.js, React / Next.js</li>
-                <li>Firebase (Realtime DB, Hosting)</li>
+                <li>Firebase (Realtime Database, Hosting)</li>
                 <li>Git & GitHub</li>
               </ul>
             </div>
